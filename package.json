@@ -2,6 +2,10 @@
   "name": "babel-plugin-import-path-replace",
   "version": "0.1.0",
   "description": "Replaces strings predefined string in an import path during transpile.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loganmccaul/babel-plugin-import-path-replace"
+  },
   "main": "lib/index.js",
   "scripts": {
     "test": "jest"
