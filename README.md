@@ -6,7 +6,9 @@ to imported files needs to be updated.
 
 
 ## Install
+
 NPM: `npm install --save-dev babel-plugin-import-path-replace`
+
 Yarn: `yarn add -D babel-plugin-import-path-replace`
 
 ## Usage
