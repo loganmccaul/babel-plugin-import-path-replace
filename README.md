@@ -65,3 +65,5 @@ import example from '../example';
 ```
 import example from '../../example';
 ```
+
+Inspired by https://github.com/jean-smaug/babel-plugin-search-and-replace
